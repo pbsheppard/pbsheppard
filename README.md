@@ -1,4 +1,4 @@
-Preston Sheppard
+I build geospatial data workflows in the Baltimore–Washington area. Integrating satellite imagery, land cover, and climate data into something you can make a decision from.
 
 B.S. Geographical Sciences, University of Maryland, with continuing geospatial coursework there. Currently applying aerial imagery exploitation to commercial site measurement.
 
