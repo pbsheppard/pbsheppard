@@ -12,10 +12,14 @@ Breeding-season length derived from ~109,000 species occurrence records across f
 
 Tools
 Languages Python (JupyterLab) · R
+
 Geospatial ArcGIS Pro · QGIS · Google Earth Engine · AutoCAD
+
 Imagery and data Sentinel-2 · MODIS · ALOS-2 · NLCD · NOAA C-CAP · MERRA-2
+
 Methods Multi-temporal change detection · vegetation index analysis · multi-source data fusion · suitability modeling · fragmentation analysis
 
 Looking for
 Applied geospatial and data integration work on resource, energy, and infrastructure problems in the DC–Baltimore corridor.
+
 Linthicum, MD · LinkedIn · pbsheppard@icloud.com
